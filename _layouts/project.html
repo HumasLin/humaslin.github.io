@@ -16,10 +16,10 @@ layout: default
     {% assign projs = site.projs %}
   {% endif %} -->
 
-  {%- if _projs.size > 0 -%}
+  {%- if projs.size > 0 -%}
     <ul class="post-list">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in _projs -%}
+      {%- for post in projs -%}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
