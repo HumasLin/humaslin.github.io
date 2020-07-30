@@ -12,15 +12,22 @@ layout: default
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}
       <li>
-        <h2>
+        <p class="work-item">
+            <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+              class="work-bubble"
+            />
+        <!-- <h2> -->
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h2>
+        <!-- </h2> -->
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         {%- if post.show_excerpts != false -%}
           <div class="post-excerpt">{{ post.excerpt }}</div>
         {%- endif -%}
+        </p>
       </li>
       {%- endfor -%}
     </ul>
