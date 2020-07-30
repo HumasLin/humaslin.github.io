@@ -10,11 +10,11 @@ layout: default
 
   {{ content }}
 
-  {% if site.paginate %}
+<!--   {% if site.paginate %}
     {% assign projs = paginator.projs %}
   {% else %}
     {% assign projs = site.projs %}
-  {% endif %}
+  {% endif %} -->
 
   {%- if projs.size > 0 -%}
     <ul class="post-list">
