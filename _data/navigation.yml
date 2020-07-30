@@ -2,5 +2,6 @@
   url: /
 - title: Projects
   url: /projects
+  paginate: 1
 - title: CV
   url: /img/CV_HaominLin.pdf
