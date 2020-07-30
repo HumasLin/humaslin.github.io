@@ -1,5 +1,5 @@
 ---
-layout: home_copy
+layout: home
 title: Projects
 permalink: /projects/
 ---
