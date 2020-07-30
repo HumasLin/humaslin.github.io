@@ -11,10 +11,14 @@ layout: default
   {{ content }}
 
   {% if site.paginate %}
-    <h1 class="post-title">{{ posts.size | escape }}</h1>
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
+  {% endif %}
+  
+  {% assign psize = site.posts | size %}
+  {% if psize == 0 %} 
+    <p>No posts...yet.</p>
   {% endif %}
 
   {%- if posts.size > 0 -%}
