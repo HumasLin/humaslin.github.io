@@ -110,7 +110,7 @@
     }
 
     .dropdown-content {
-      display: none;
+      display: inline;
       position: absolute;
       z-index: 1;
     }
@@ -128,7 +128,7 @@
   }
 
   .current-page {
-    text-decoration: line-through;
+    text-decoration: underline;
   }
 
   @media screen and (min-width: $on-medium) {
