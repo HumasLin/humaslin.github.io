@@ -1,6 +1,5 @@
 ---
-layout: archive-taxonomies
-type: tags
-title: Tags
-permalink: /tags/
+layout: page
+title: Projects
+permalink: /projects/
 ---
