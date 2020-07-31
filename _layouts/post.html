@@ -66,13 +66,13 @@ layout: post_default
     {% endif %}
 
     <nav class="post-pagination" role="navigation">
-      {% if page.previous %}
+      {% if page.next %}
         <a class="post-previous" href="{{ page.next.url | relative_url }}">
           <i class="fas fa-arrow-left"></i> {{ page.next.title | markdownify | strip_html }}
         </a>
       {% endif %}
     
-      {% if page.next %}
+      {% if page.previous %}
         <a class="post-next" href="{{ page.previous.url | relative_url }}">
           {{ page.previous.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
         </a>
