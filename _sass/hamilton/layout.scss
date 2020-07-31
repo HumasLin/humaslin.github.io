@@ -410,10 +410,12 @@ ul.post-categories {
 
   .post-previous{
     display: block;
+    float:left;
     text-align: left;
     }
   .post-next {
     display: block;
+    float:right;
     text-align: right;
   }
 }
