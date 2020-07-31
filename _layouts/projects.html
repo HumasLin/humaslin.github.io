@@ -11,7 +11,7 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}
-<!--       <p> -->
+      <li>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -21,7 +21,7 @@ layout: default
         {%- if post.show_excerpts != false -%}
           <div class="post-excerpt">{{ post.excerpt }}</div>
         {%- endif -%}
-      <!-- </p> -->
+      </li>
       {%- endfor -%}
     </ul>
   {%- endif -%}
