@@ -550,6 +550,17 @@ figcaption.align-center {
   }
 }
 
+.post-footer {
+  margin-top: $spacing-unit * -0.025;
+  border-top: 1px solid;
+  padding: $spacing-unit 0;
+  @include relative-font-size(0.8);
+
+  p, ul {
+    margin-bottom: $spacing-unit / 4;
+  }
+}
+
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
     display: flex
