@@ -70,14 +70,20 @@ layout: post_default
         <a class="post-previous" href="{{ page.next.url | relative_url }}">
           <i class="fas fa-arrow-left"></i> {{ page.next.title | markdownify | strip_html }}
         </a>
+      {% else $}
+        <a class="post-previous" href="{{ https://humaslin.github.io/projects/ }}">
+          <i class="fas fa-arrow-left"></i> {{ 'Back to list' }}
+        </a>
       {% endif %}
     
-      {% if page.previous %}
-      <div class="post-only-next"> 
+      {% if page.previous %} 
         <a class="post-next" href="{{ page.previous.url | relative_url }}">
           {{ page.previous.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
         </a>
-      </div>
+      {% else %}
+        <a class="post-next" href="{{ https://humaslin.github.io/projects/ }}">
+          {{ 'Back to list' }} <i class="fas fa-arrow-right"></i>
+        </a>
       {% endif %}
     </nav>
   </footer>
