@@ -71,8 +71,8 @@ layout: post_default
           <i class="fas fa-arrow-left"></i> {{ page.next.title | markdownify | strip_html }}
         </a>
       {% else %}
-        <a class="post-previous" href="{{ https://humaslin.github.io/projects/ | absolute_url }}">
-          <i class="fas fa-arrow-left"></i> {{ Back to list }}
+        <a class="post-previous" href="{{ https://humaslin.github.io/projects/ }}">
+          <i class="fas fa-arrow-left"></i> {{ 'Back to list' }}
         </a>
       {% endif %}
     
@@ -81,8 +81,8 @@ layout: post_default
           {{ page.previous.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
         </a>
       {% else %}
-        <a class="post-next" href="{{ https://humaslin.github.io/projects/ | absolute_url }}">
-          {{ Back to list }} <i class="fas fa-arrow-right"></i>
+        <a class="post-next" href="{{ https://humaslin.github.io/projects/ }}">
+          {{ 'Back to list' }} <i class="fas fa-arrow-right"></i>
         </a>
       {% endif %}
     </nav>
