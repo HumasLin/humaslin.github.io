@@ -408,9 +408,13 @@ ul.post-categories {
   padding-bottom: $spacing-unit / 2;
   border-top: 1px solid;
 
-  .post-previous
+  .post-previous{
+    display: block;
+    text-align: left;
+    }
   .post-next {
     display: block;
+    text-align: right;
   }
 }
 
