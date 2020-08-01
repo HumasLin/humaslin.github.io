@@ -251,12 +251,13 @@ ul.social-icons {
   > li {
     display: inline-block;
     margin: 0.3em;
+    .svg-inline--fa fa-twitter fa-w-16 fa-2x {
+        svg path {
+            fill: #b21000
+          }
+    }
   }
-  .svg-inline--fa fa-twitter fa-w-16 fa-2x {
-    svg path {
-        fill: #b21000
-      }
-  }
+  
 }
 
 .author-avatar {
