@@ -80,17 +80,52 @@ table {
   }
 }
 
-.fab fa-twitter {
-    fill: #1da1f2;
-}
-.fab fa-github {
-    fill: #6f42c1;
-}
-.fab fa-linkedin {
-    fill: #2867b2;
-}
-.fab fa-facebook {
-    fill: #4267B2;
+.svg-inline--fa {
+    .fa{
+     .fa-twitter{
+      .fa-w-16{
+       .fa-2x {
+        fill: #1da1f2;
+          }
+        }
+      }
+    }
+    .fa{
+     .fa-github{
+      .fa-w-16{
+       .fa-2x {
+        fill: #6f42c1;
+          }
+        }
+      }
+    }
+    .fa{
+     .fa-twitter{
+      .fa-w-14{
+       .fa-2x {
+        fill: #2867b2;
+          }
+        }
+      }
+    }
+    .fa{
+     .fa-twitter{
+      .fa-w-14{
+       .fa-2x {
+        fill: #4267B2;
+          }
+        }
+      }
+    }
+    .fa fa-github fa-w-16 fa-2x {
+        fill: #6f42c1;
+    }
+    .fa fa-linkedin fa-w-14 fa-2x {
+        fill: #2867b2;
+    }
+    .fa fa-facebook fa-w-14 fa-2x {
+        fill: #4267B2;
+    }
 }
 
 
