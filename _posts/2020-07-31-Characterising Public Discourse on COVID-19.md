@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Characterising Public Discourse on COVID-19 during the Early Months of the Outbreak in the US
+remark: Characterising Public Discourse on COVID-19
 author: Haomin Lin
 date: 2020-07-31
 tags: [research project]

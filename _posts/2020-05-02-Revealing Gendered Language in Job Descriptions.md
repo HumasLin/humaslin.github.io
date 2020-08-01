@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Revealing Gendered Language in Job Descriptions
+remark: Revealing Gendered Language in Job Descriptions
 author: Haomin Lin
 date: 2020-05-02
 tags: [course project]

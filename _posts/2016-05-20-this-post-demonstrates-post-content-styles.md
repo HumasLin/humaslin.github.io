@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
+remark: This post demonstrates post content styles
 categories: junk
 tags: [markdown, css, html]
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simulation of rumor spread in social network
+remark: Simulation of rumor spread in social network
 author: Haomin Lin
 date: 2020-02-24
 tags: [course project]

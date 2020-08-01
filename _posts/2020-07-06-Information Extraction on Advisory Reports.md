@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Information Extraction on Advisory Reports
+remark: Information Extraction on Advisory Reports
 author: Haomin Lin
 date: 2020-07-06
 tags: [research project]
