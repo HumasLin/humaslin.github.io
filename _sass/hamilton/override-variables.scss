@@ -1,15 +1,15 @@
 // Placeholder to allow overriding predefined variables.
-ul.social-icons {
-  .fab fa-twitter {
+social-icons {
+  .svg-inline--fa fa-twitter fa-w-16 fa-2x {
     color: #1DA1F2;
   }
-  .fab fa-github {
+  .svg-inline--fa fa-github fa-w-16 fa-2x {
     color: #6f42c1
   }
-  .fab fa-facebook {
-    color: #4267B2
-  }
-  .fab fa-linkedin {
+  .svg-inline--fa fa-linkedin fa-w-14 fa-2x {
     color: #2867b2
+  }
+  .svg-inline--fa fa-facebook fa-w-14 fa-2x {
+    color: #4267B2
   }
 }
