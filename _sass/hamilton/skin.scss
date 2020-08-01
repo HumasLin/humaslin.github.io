@@ -81,8 +81,45 @@ table {
 }
 
 .fa-twitter{
-  color: #111;
+  color: #1DA1F2;
 }
+.fa-twitter:hover {
+  color: #4267B2;
+}
+.fa-twitter:visited {
+  color: #4267B2;
+}
+
+.fa-linkedin{
+  color: #2867b2;
+}
+.fa-linkedin:hover {
+  color: #4267B2;
+}
+.fa-linkedin:visited {
+  color: #4267B2;
+}
+
+.fa-github{
+  color: #6f42c1;
+}
+.fa-github:hover {
+  color: #663399;
+}
+.fa-github:visited {
+  color: #663399;
+}
+
+.fa-facebook{
+  color: #3b5998;
+}
+.fa-facebook:hover {
+  color: #483d8b;
+}
+.fa-facebook:visited {
+  color: #483d8b;
+}
+
 
 .site-nav {
   background-color: $background-color;
