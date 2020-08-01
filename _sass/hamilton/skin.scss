@@ -81,8 +81,10 @@ table {
 }
 
 .social-icon {
-    > svg path {
-      fill: #b21000
+    .svg-inline--fa fa-twitter fa-w-16 fa-2x{
+        > svg path {
+          fill: #b21000
+        }
     }
 }
 .site-nav {
