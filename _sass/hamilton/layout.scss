@@ -249,28 +249,28 @@ ul.social-icons {
   margin-left: 0;
   margin-bottom: 0;
   > li {
+      .svg-inline--fa-title-1 {
+        > svg path {
+          fill: #1DA1F2;
+        }
+      }
+      .svg-inline--fa-title-2 {
+        > svg path {
+          fill: #6f42c1;
+        }
+      }
+      .svg-inline--fa-title-3 {
+        > svg path {
+          fill: #2867b2;
+        }
+      }
+      .svg-inline--fa-title-4 {
+        > svg path {
+          fill: #4267B2;
+        }
+      }
     display: inline-block;
     margin: 0.3em;
-  }
-  .svg-inline--fa-title-1 {
-    > svg path {
-      fill: #1DA1F2;
-    }
-  }
-  .svg-inline--fa-title-2 {
-    > svg path {
-      fill: #6f42c1;
-    }
-  }
-  .svg-inline--fa-title-3 {
-    > svg path {
-      fill: #2867b2;
-    }
-  }
-  .svg-inline--fa-title-4 {
-    > svg path {
-      fill: #4267B2;
-    }
   }
 }
 
