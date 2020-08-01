@@ -252,6 +252,9 @@ ul.social-icons {
     display: inline-block;
     margin: 0.3em;
   }
+    > svg path{
+        fill: #552200
+    }
 }
 
 .author-avatar {
