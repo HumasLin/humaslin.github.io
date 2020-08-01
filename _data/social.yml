@@ -1,13 +1,16 @@
 - title: Twitter
   url: https://twitter.com/Robauther_Lin
   icon: fab fa-twitter
-  fill: #111
+  color: #111
 - title: GitHub
   url: https://github.com/HumasLin
   icon: fab fa-github
+  color: #111
 - title: LinkedIn
   url: https://www.linkedin.com/in/humaslin/
   icon: fab fa-linkedin
+  color: #111
 - title: Facebook
   url: https://www.facebook.com/haomin.lin.927/
   icon: fab fa-facebook
+  color: #111

@@ -250,14 +250,8 @@ ul.social-icons {
   margin-bottom: 0;
   > li {
     display: inline-block;
-    margin: 0.3em;
-    .svg-inline--fa fa-twitter fa-w-16 fa-2x {
-        svg path {
-            fill: #b21000
-          }
-    }
+    margin: 0.3em; 
   }
-  
 }
 
 .author-avatar {
