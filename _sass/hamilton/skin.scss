@@ -80,9 +80,19 @@ table {
   }
 }
 
-.svg-inline--fa fa-twitter fa-w-16 fa-2x {
+.fab fa-twitter {
     fill: #1da1f2;
 }
+.fab fa-github {
+    fill: #6f42c1;
+}
+.fab fa-linkedin {
+    fill: #2867b2;
+}
+.fab fa-facebook {
+    fill: #4267B2;
+}
+
 
 .site-nav {
   background-color: $background-color;
