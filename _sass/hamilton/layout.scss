@@ -252,9 +252,12 @@ ul.social-icons {
     display: inline-block;
     margin: 0.3em; 
   }
-    .fab fa-twitter {
+}
+
+.svg-inline--fa.fa-twitter.fa-w-16.fa-2x{
+    >svg path{
         fill: #111;
-    } 
+    }
 }
 
 .author-avatar {
