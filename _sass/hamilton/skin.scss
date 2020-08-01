@@ -9,11 +9,11 @@ a {
   color: $link-base-color;
 
   &:visited {
-    color: $link-visited-color;
+    color: #6f42c1;
   }
 
   &:hover {
-    color: #4267B2;
+    color: $link-visited-color;
   }
 }
 
