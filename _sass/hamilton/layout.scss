@@ -441,7 +441,7 @@ ul.post-categories {
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2);
   }
-},
+}
 .p-name h1 {
   font-family: "Times New Roman";
   @include relative-font-size(1.8);
