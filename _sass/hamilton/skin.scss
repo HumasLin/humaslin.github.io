@@ -164,8 +164,13 @@ ul.post-tags {
 }
 
 .sidebar-section {
+  .svg.svg-inline--fa fa-twitter fa-w-16 fa-2x {
+      color: #1DA1F2;
+  }
   border-bottom-color: $border-color-light;
 }
+
+
 
 .feed-subscribe {
   a {
