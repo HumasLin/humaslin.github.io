@@ -80,13 +80,12 @@ table {
   }
 }
 
-.social-icon {
-    .svg-inline--fa-title-1{
-        > svg path {
-          fill: #b21000
-        }
+.svg-inline--fa-title-1{
+    > svg path {
+      fill: #b21000
     }
 }
+
 .site-nav {
   background-color: $background-color;
   border-color: $border-color;
