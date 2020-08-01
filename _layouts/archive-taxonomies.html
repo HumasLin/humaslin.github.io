@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 ---
 
+<div class="post-content">
+  
 {{ content }}
 
 {% comment %} Check the type of archive {% endcomment %}
@@ -22,7 +24,7 @@ layout: page
   {%- endif -%}
 {%- endfor -%}
 
-<div class="taxonomies-wrapper">
+<!-- <div class="taxonomies-wrapper">
   <ul class="taxonomies">
     {%- for i in (1..max_count) reversed -%}
       {%- for taxonomy in taxonomies -%}
@@ -47,7 +49,7 @@ layout: page
       {%- endfor -%}
     {%- endfor -%}
   </ul>
-</div>
+</div> -->
 
 {% comment %} Show posts by taxonomy {% endcomment %}
 {%- for i in (1..max_count) reversed -%}
@@ -81,3 +83,5 @@ layout: page
     main.scrollTop = 0;
   }
 </script>
+
+</div>
