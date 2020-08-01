@@ -1,6 +1,7 @@
 - title: Twitter
   url: https://twitter.com/Robauther_Lin
   icon: fab fa-twitter
+  fill: #111
 - title: GitHub
   url: https://github.com/HumasLin
   icon: fab fa-github
