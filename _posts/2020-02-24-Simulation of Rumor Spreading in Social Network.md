@@ -9,7 +9,7 @@ tags: [course project]
 
 This project is from course CSE 6730 at Gerogia Tech. In this project, me and my teammates built a software to run the simulation on rumor spreading in social networks. The rumor spreading machnism is based on [Discrete-Event Simluation](https://en.wikipedia.org/wiki/Discrete-event_simulation).
 
-In the software, three types of roles in the social network are generated: Ignorant (I) who isn't aware of the rumor, Spreader (S) who believes in the rumor and spreads the rumor with others, Truther (T) who is aware of the rumor and talks to others to defend the truth. Anyone aware of the rumor would be a Truther or Spreader, but not necessarily someone who wants to communicate with others, therefore, a Stifler (R), which is divided into RS and RT. Those nodes not stiflers would keep communicating with others and keep the rumor spreading until they are stifled.
+In the software, three types of roles in the social network are generated: Ignorant (I) who isn't aware of the rumor, Spreader (<b>S</b>) who believes in the rumor and spreads the rumor with others, Truther (<b>T</b>) who is aware of the rumor and talks to others to defend the truth. Anyone aware of the rumor would be a Truther or Spreader, but not necessarily someone who wants to communicate with others, therefore, a Stifler (<b>R</b>), which is divided into RS and RT. Those nodes not stiflers would keep communicating with others and keep the rumor spreading until they are stifled.
 
 In the simulation, each one is seen as a queue where people wanting to talk to him waiting in queue, only after the former conversation finishes can someone waiting in the queue to initiate a new conversation with the person of interest. Therefore, this constructs a discrete event simulation.
 
