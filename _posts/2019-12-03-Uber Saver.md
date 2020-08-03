@@ -22,6 +22,6 @@ To establish visualization, we used D3.js to create the interactive heatmap. In 
   alt="D3 visualization" width="700">
 </p>
 
-<tt><p style="text-align:center;">D3 visualization of prediction results</p></tt>
+<p style="text-align:center;">D3 visualization of prediction results</p>
 
 Although we managed to build a model at last, the limited size and range of data still stop us from getting a more general and accurate model. With the privacy policy changing, it will still get harder to make  
