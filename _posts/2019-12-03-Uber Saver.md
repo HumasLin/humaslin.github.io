@@ -15,5 +15,5 @@ In the beginning of the project, our team found out the data is from different k
 
 <p align="center">
   <img title="Distribution of surge multiplier in different weather" src="/img/uber/Weather.png"
-  alt="Distribution of surge multiplier in different weather" width="500" title="hover text">
+  alt="Distribution of surge multiplier in different weather" width="500">
 </p>
