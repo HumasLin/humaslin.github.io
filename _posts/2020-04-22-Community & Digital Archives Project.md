@@ -20,7 +20,7 @@ In Image classfication part, I located a transfer learning model online from a [
 In scoring comment's sentiment, I used the library from [VADER sentiment in PHP](https://github.com/abusby/php-vadersentiment), which I can use for giving each comment a sentiment score to identify whether the comment is positive or negative. It is successfully incorporated into the website, admins of the website can access the score and identify negative comments.
 
 <p align="center">
-  <img  src="/img/sna/score.png"
+  <img  src="/img/allen/score.png"
   alt="allenarchive sentiment score" style="border:1px solid black" width="700">
 </p>
 
