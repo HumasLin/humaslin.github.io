@@ -23,7 +23,7 @@ To categorize the job description into 16 industries, I scraped typical descirpt
 With the features ready and gender score calculated beforehand, I plotted the confidence intervals of gender scores in each industry to show the gender score of each industry and salary level. Results show that IT and Finance industry are the most masculine, while Human Services and Hospitality and Tourism are most feminine industries. As for salaries, low salary level jobs are most feminine.
 
 <p align="center">
-  <img  src="/img/jd/ind_sal.png"
+  <img  src="/img/jd/ind_sal.jpg"
   alt="Results" style="border:1px solid black" width="700">
 </p>
 
