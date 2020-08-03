@@ -29,4 +29,4 @@ With the features ready and gender score calculated beforehand, I plotted the co
 
 <p style="text-align:center;font-family:'Courier New';font-size:14px">Gender scores in different industries and salary levels</p>
 
-
+*More details and source code are available on [Haomin's Github](https://github.com/HumasLin/CSE-6240-Project)

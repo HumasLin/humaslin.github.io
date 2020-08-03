@@ -16,3 +16,7 @@ In this project, my work basically consists of three parts:
 - For some cases, transform the detailed text data into more simple text value describing the feature of some vulneralbilities.
 
 In the second step, the regular expressions or string matching methods are widely used to identify valuable information in the text data, and [POS tagging](https://spacy.io/usage/linguistic-features) is also implemented to remove certain sentences that are mistakenly identified as useful information.
+
+The results are pushed to the next level analysis of advisory reports on network security to serve as word embeddings.
+
+*Source code is available in [Haomin's Github]()
