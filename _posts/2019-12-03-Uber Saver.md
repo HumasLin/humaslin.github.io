@@ -14,4 +14,4 @@ In this project, me and my teammate developed a tool to predict [Uber surge valu
 In the beginning of the project, our team found out the data is from different kinds of services in Uber/Lyft, which makes our original plan to calculate the surge multiplier with all the data impractical. So we run a program to calculate the average price of orders in each service and calculate the surge multiplier seperately. This helps to get the distribution of surge multiplier against differnt variables, like the weather.
 
 | Distribution of surge multiplier in different weather |
-![DaW](/img/uber/Weather.png)
+|[DaW](/img/uber/Weather.png)|
