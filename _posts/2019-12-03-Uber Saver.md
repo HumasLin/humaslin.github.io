@@ -15,7 +15,4 @@ In the beginning of the project, our team found out the data is from different k
 
 <img src="/img/uber/Weather.png"
      alt="Distribution of surge multiplier in different weather"
-     width=150
-     height=100
-     border-style="groove"
      style="float: left; margin-right: 10px;" />
