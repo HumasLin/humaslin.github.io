@@ -13,7 +13,7 @@ In the beginning of the project, our team found out the data is from different k
 
 <p align="center">
   <img title="D3 visualization of prediction results" src="/img/uber/temperature.png"
-  alt="D3 visualization" width="700">
+  alt="D3 visualization" style="border:1px solid black" width="700">
 </p>
 
 <p style="text-align:center;font-family:'Courier New';font-size:14px">Surge multiplier distribution against temperature of the trip</p>
