@@ -38,4 +38,4 @@ In the results, the Truthers and Spreaders will greatly affect people around the
 
 <p style="text-align:center;font-family:'Courier New';font-size:14px">Results of how the number of stiflers increases</p>
 
-
+*More details and source code can be found at [Haomin's GitHub](https://github.com/HumasLin/CSE6730-Project)
