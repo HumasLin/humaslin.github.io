@@ -31,4 +31,6 @@ To establish visualization, we used D3.js to create the interactive heatmap. In 
 
 <p style="text-align:center;font-family:'Courier New';font-size:14px">D3 visualization of prediction results</p>
 
-Although we managed to build a model at last, the limited size and range of data still stop us from getting a more general and accurate model. With the privacy policy changing, it will still get harder to make  
+Although we managed to build a model at last, the limited size and range of data still stop us from getting a more general and accurate model. With the privacy policy changing, it will still get harder to make decent model without further support.
+
+*Source code available at [Haomin's Github](https://github.com/HumasLin/CSE6242-Project)
