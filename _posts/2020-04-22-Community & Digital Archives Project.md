@@ -21,7 +21,7 @@ In scoring comment's sentiment, I used the library from [VADER sentiment in PHP]
 
 <p align="center">
   <img  src="/img/allen/score.png"
-  alt="allenarchive sentiment score" style="border:1px solid black" width="700">
+  alt="allenarchive sentiment score" style="border:1px solid black" width="500">
 </p>
 
 <p style="text-align:center;font-family:'Courier New';font-size:14px">Admins viewing sentiment scores of comments on the website</p>
