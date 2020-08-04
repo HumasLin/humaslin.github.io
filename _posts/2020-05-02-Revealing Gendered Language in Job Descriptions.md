@@ -7,7 +7,7 @@ date: 2020-05-02
 tags: [course project]
 ---
 
-This project is from course CSE 6240 at Gerogia Tech. In this project, I worked with two teammates to study the relationship between gendered language usage in job descriptions and salary level, industry, company, location. My part is to analyze how gender scores vary in different salary levels and industries.
+This project is from course CSE 6240 at Gerogia Tech. In this project, I worked with two teammates to study the relationship between gendered language usage in job descriptions and salary level, industry, company, location. My part is to analyze how gender scores vary in different salary levels and industries. The metric we used for gendered languae is [gender score by Tang et al.](https://people.cs.uchicago.edu/~ravenben/publications/pdf/gender-cscw18.pdf)
 
 I scraped data from Indeed.com to collect job descriptions from 100 cities in United States and integrate all the data into a dataset of 300 thousand job descriptions. But a number of job description doesn't have salary information. Therefore, I implemented [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning) to make predictions on the salary level of each job description and achieved an accuracy score of 87.1%. This method helps to supplement over 100 thousand salary information entries for the dataset.
 
