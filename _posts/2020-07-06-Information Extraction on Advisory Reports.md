@@ -19,4 +19,4 @@ In the second step, the regular expressions or string matching methods are widel
 
 The results are pushed to the next level analysis of advisory reports on network security to serve as word embeddings.
 
-*Source code is available in [Haomin's Github]()
+*Source code is available in [Haomin's Github](https://github.com/HumasLin/Information-Extraction)
