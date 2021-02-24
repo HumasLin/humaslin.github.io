@@ -15,6 +15,4 @@ In this research project my duty mostly covered:
 - Run statistical analysis to see whether linguistic features vary across platforms, and whether one platform is leading another one in covering certain topics. 
 - Drawing conclusions with statistical validation or adequate supporting data.
 
-We found the media on different platforms hold disparate linguistic features. The timing to cover certain topics is also very different. The analysis on these topics spans from ANOVA tests, HSD Tukey tests, to correlation scores calculation. The findings in our research were sythesized in a paper and submitted to [ICWSM-2021](https://www.icwsm.org/2020/index.html).
-
-*Source code is available in [Henry's Github](https://github.com/LINK-NU/ICWSM21-COVID-19)
+We found the media on different platforms hold disparate linguistic features. The timing to cover certain topics is also very different. The analysis on these topics spans from ANOVA tests, HSD Tukey tests, to correlation scores calculation. The findings in our research were sythesized in a paper and submitted to [JQD:DM](https://journalqd.org).
